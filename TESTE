@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg" group-title="Filmes | Ficção e Fantasia",Harry Potter e a Câmara Secreta (2002)
-https://m3u9.ml/a2/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=5tMCoqAM-2D3B0BRs1rm2Q&3U1G7qaTxrPbalZnEx=1642319559
+<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=trutv" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
+		
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="Filmes | Ficção e Fantasia",Harry Potter e a Ordem da Fênix (2007)
 http://cdn1.icego.xyz:80/movie/streamdotz/eh64he8396hmj/208905.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnw9610ojLT0jU3lMSZOAFttt1e.jpg" group-title="Filmes | Ficção e Fantasia",Harry Potter e a Pedra Filosofal (2001)
