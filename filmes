@@ -1,124 +1,138 @@
 #EXTM3U
-#EXTINF:-1,Red: Crescer é uma Fera (2022)
+#EXTINF:-1,tvg-id="Red: Crescer é uma Fera" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg", Red: Crescer é uma Fera (2022)
 https://s1.netcine.io/bcdn_token=xRU9putNUQx2yhNLlOtpqlgPq6WMo3pasMEAVl9NGgw&expires=1647713096/storage.bunnycdn.com/html/content/conteudolb4/filmes2022/RED2022DUB-BAIXO.mp4
 
-#EXTINF:-1,Sing 2
+
+#EXTINF:-1,tvg-id=" " tvg-logo=" ", Sing 2
 https://s1.netcine.io/bcdn_token=LAig2TjQs5sbYukzP5OYZLxDhrPw-cmErzEN4p3r45c&expires=1647713178/storage.bunnycdn.com/html/content/conteudolb4/filmes2022/SING22021LEG-BAIXO.mp4#EXTINF:-1,Hotel Transilvânia(2012)
 
-#EXTINF:-1, Hotel Transilvânia
-#EXTINF:-1,Hotel Transilvânia 2 (2015)
+#EXTINF:-1,tvg-id="Hotel Transilvânia " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i9kAWShk7qrqril2dLboP0hi8I2.jpg ",Hotel Transilvânia
+#EXTINF:-1,tvg-id=" Hotel Transilvânia 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/prBkRebn3rgLVboyxmEpjKaDJ1x.jpg", Hotel Transilvânia 2 (2015)
 https://s1.netcine.io/bcdn_token=pl23wDrtzTig3IoiqsXabxGF-UjvZ9OouHd3RsSEAUk&expires=1647713483/storage.bunnycdn.com/html/content/conteudolb4/filmes2022/HT2DUB-BAIXO.mp4
-#EXTINF:-1,Hotel Transilvânia 3(2018)
+#EXTINF:-1,tvg-id="Hotel Transilvânia 3 " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ji1aJB052iPLnnzL082It683Nr.jpg",Hotel Transilvânia 3(2018)
 https://s1.netcine.io/bcdn_token=tiW0zQ0P-ijNXyGgG-X32QjSZbkVzQopwXObVpD0tm0&expires=1647713572/storage.bunnycdn.com/html/conteudo/delivery/filmes2018/HOTELTRANSYLVANIALEG-BAIXO.mp4
-#EXTINF:-1,Hotel Transilvânia 4 (2022)
+#EXTINF:-1,tvg-id="Hotel Transilvânia 4 " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9PbtCo5IIkd26WPQfZUpPyn6fTz.jpg",Hotel Transilvânia 4 (2022)
 https://s1.netcine.io/bcdn_token=wg-aRmmOFOFUtFYsRlxJhrgyzE3xzwf6kd6YkG2omjI&expires=1647713644/storage.bunnycdn.com/html/content/conteudolb4/filmes2022/HOTELTRANSILVANIA4DUB-BAIXO.mp4
 
 
 #EXTINF:-1,tvg-id="Encanto" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg", Encanto (2021) 
 https://s1.netcine.io/bcdn_token=5RqCq8jtFA3-Tst87a8mYuzRCYaQe2a0BsQ9988CQ8Q&expires=1647714155/storage.bunnycdn.com/html/content/conteudolb4/filmes2021/ENCANTO2021DUB-BAIXO.mp4
 
-#EXTINF:-1,A Familia Addams 2: Pé na Estrada (2021)
-https://s9.pandafiles.com:183/d/6m3uy76226kwoyapkgflo3ovmkjph7upihlmp7uxsrsyhzya72xlq5zsc3tska4yykibgcvw/video.mp4
-#EXTINF:-1,Lucas(2021)
-https://talia.evosrv.com/EvoSrv/aTuWF1P1Kc8MZYlIgL8p.mp4?md5=QJcheqT_a0-KQmUBNcSoSA&expires=1647492538
-#EXTINF:-1,Os Croods 2013
-https://luma.evosrv.com/EvoSrv/NKCnyfpgLxKigj7hVpqV.mp4?md5=enSal37JXf8V_Zuarbd80w&expires=1647494366
-#EXTINF:-1,Os Croods 2: Uma Nova Era 2020
-https://antica.evosrv.com/EvoSrv/RKFLYNX0zJwpyloilqFl.mp4?md5=hE6Xqh7eLK8IFSRULRYd6Q&expires=1647492710
-#EXTINF:-1,O Rei Leão 2019
-https://xaia.evosrv.com/EvoSrv/AFFLTxXDGoAWsDFbmiOy.mp4?md5=5RP3NYtNgOZj6Nwu2xnjKw&expires=1647492802
-#EXTINF:-1,O Bom Dinossauro (2015)
-https://snow.evosrv.com/EvoSrv/UYhRdEWtmblxzGs399kE.mp4?md5=e_zjyNpFtXJj1-HbOrRpyg&expires=1647493242
-#EXTINF:-1,A Era do Gelo (2002)
-https://luma.evosrv.com/EvoSrv/V6S6Vk8RE6yLbaxiswc3.mp4?md5=Ojnpw1u8koi-hnfaczAX4w&expires=1647493598
-#EXTINF:-1,A Era do Gelo 2(2006)
-https://xaia.evosrv.com/EvoSrv/Yq3O5r8AK3NWypw0gOTA.mp4?md5=qf2ybEwo1bPVIc0uLTOsZw&expires=1647493648
-#EXTINF:-1,A Era do Gelo 3(2009)
-https://xaia.evosrv.com/EvoSrv/JaovYAt7BNDpp1RadgB8.mp4?md5=OJyl0G1Hl-GoHOP9AFGY3A&expires=1647493691
-#EXTINF:-1,A Era do Gelo 4(2012)
-https://xaia.evosrv.com/EvoSrv/quL9Y1MPJLfCwC5K9lss.mp4?md5=8ew40-wc82I3Cfn5cPFw-g&expires=1647493738
-#EXTINF:-1,A Era do Gelo - O Big Bang 2016
-https://luma.evosrv.com/EvoSrv/BWrqpSGyVHBgbWTi8dpG.mp4?md5=rmNJ-q1O8bPcl2IEpx0iKQ&expires=1647493776
-#EXTINF:-1,A Era do Gelo: As Aventuras de Buck
-https://casia.evosrv.com/EvoSrv/RWjUTYRYjZAL5QVEeeEN.mp4?md5=z9RyaCGi3ACTH-6zqFGARw&expires=1647492626
-#EXTINF:-1,Pets - A Vida Secreta dos Bichos
-https://casia.evosrv.com/EvoSrv/a1G9LEBOF9ByxGyc2sbP.mp4?md5=HTCwRpp11cISatg_3azWUg&expires=1647493935
-#EXTINF:-1,Pets - A Vida Secreta dos Bichos 2
-https://snow.evosrv.com/EvoSrv/f7cccggaRwCBDeXeKDFJ.mp4?md5=tKyFlJ71VJTebh6GAn7Kkg&expires=1647492840
-#EXTINF:-1,Shrek (2001)
+#EXTINF:-1,tvg-id="Addams" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDCIHb6BJ27PhdAz36JWc4chKlb.jpg",A Familia Addams
+https://s1.netcine.io/bcdn_token=0z1jU1hzINW50dx_rjqZC7_l3oOiSvFuBPAuUPqoo7Q&expires=1647715469/storage.bunnycdn.com/html/content/conteudolb4/filmes2021/THEADDAMSFAMILY22021LEG-BAIXO.mp4
+#EXTINF:-1,tvg-id="Addams 2: Pé na Estrada " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88blCJn67jXZfFtZhcGUGEVoX0a.jpg ",A Familia Addams 2: Pé na Estrada (2021)
+https://s1.netcine.io/bcdn_token=Xdefmm4i9b8DaI9cyrBGknoKgvx_aPaOLqPNw4ktpBE&expires=1647715654/storage.bunnycdn.com/html/content/conteudolb4/filmes2020/FADDAMSLEG-BAIXO.mp4
+
+#EXTINF:-1,tvg-id="Lucas" tvg-logo=" https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jPa6SlUYxPFMVZlEuceiPPAA15.jpg",Lucas(2021)
+
+
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Os Croods 2013
+
+#EXTINF:-1,tvg-id=" Os Croods 2: Uma Nova Era" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRTScutueW9gLF3dSo2Za7o0v7n.jpg ",Os Croods 2: Uma Nova Era 2020
+https://s1.netcine.io/bcdn_token=7NBmDcH4RhzaxdO7JgGf98r7N1awsmocyabwoF1mBi8&expires=1647715821/storage.bunnycdn.com/html/content/conteudolb4/filmes2021/OSCROODS2DUB-BAIXO.mp4
+
+#EXTINF:-1,tvg-id="O Rei Leão  " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg ",O Rei Leão 2019
+https://s1.netcine.io/bcdn_token=nrMlL9h9dk5wsPoRDygqS8W3T3tYUttSgw4gS3rqziI&expires=1647715964/storage.bunnycdn.com/html/content/conteudolb4/filmes2019/OREILEAODUB-BAIXO.mp4
+
+#EXTINF:-1,tvg-id="O Bom Dinossauro " tvg-logo=" ",O Bom Dinossauro (2015)
+
+
+#EXTINF:-1,tvg-id="A Era do Gelo " tvg-logo=" https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A2NR4rJdD6bIVE61T7rhHxrrGvv.jpg",A Era do Gelo (2002)
+https://s1.netcine.io/bcdn_token=JlP9Zb5pE3Fh1uqn-L-GfSW1l0YZ8Py7RPdwJYxbz24&expires=1647716073/storage.bunnycdn.com/html/content/conteudolb4/filmes2019/AERADOGELO1-BAIXO.mp4
+#EXTINF:-1,tvg-id="A Era do Gelo 2 " tvg-logo=" https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5BSEXwvi0xDC2CbMkZQ0LngaVOh.jpg",A Era do Gelo 2(2006)
+https://s1.netcine.io/bcdn_token=wzhyZJP2rgIdtwZ-1jAkmXUu_fXv8ALajYprvyIOSW0&expires=1647716245/storage.bunnycdn.com/html/content/conteudolb4/filmes2019/AERADOGELO2-BAIXO.mp4
+#EXTINF:-1,tvg-id="A Era do Gelo 3 " tvg-logo=" https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tpvU1rXCNoXiAVkzv12NJToIV5P.jpg",A Era do Gelo 3(2009)
+https://s1.netcine.io/bcdn_token=lxR4C45c3WxwQxlzDMegeevaTbuuYtn1S4hirwNVHyM&expires=1647716347/storage.bunnycdn.com/html/content/conteudolb4/filmes2019/AERADOGELO3-BAIXO.mp4
+#EXTINF:-1,tvg-id="A Era do Gelo 4 " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWiHLqARtyAAOy0nLvXIxRYkfNA.jpg",A Era do Gelo 4(2012)
+https://s1.netcine.io/bcdn_token=E1CxP-RVdYZLCBFwQ4F5oUjm993U3xJhrqkZhKnSU-A&expires=1647716417/storage.bunnycdn.com/html/content/conteudolb4/filmes2019/AERADOGELO4-BAIXO.mp4
+#EXTINF:-1,tvg-id="A Era do Gelo - o Big bang " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg ",A Era do Gelo - O Big Bang 2016
+https://s1.netcine.io/bcdn_token=8aCF3I8VCh0ghsdNydk75iohhyIhFrCcZ91rJzSOkmg&expires=1647716503/storage.bunnycdn.com/html/content/conteudolb4/filmes2020/AERADOGELOBIGBANGDUB-BAIXO.mp4
+#EXTINF:-1,tvg-id="A Era do Gelo - As Aventuras de Buck " tvg-logo=" https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg",A Era do Gelo: As Aventuras de Buck
+https://s1.netcine.io/bcdn_token=xsNNyZ9x0SmNLuLnyO7Nq-QK2eJl1Q0xdKU16B6oNYo&expires=1647716605/storage.bunnycdn.com/html/content/conteudolb4/filmes2022/AERADOGELOBUCKDUB-BAIXO.mp4
+
+#EXTINF:-1,tvg-id="Pets - A Vida Secreta dos Bichos " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fPhPXOL1wN1OPTqoCCcLJnHbgyn.jpg ",Pets - A Vida Secreta dos Bichos
+https://s1.netcine.io/bcdn_token=NrjGu5bRrlHPurTr7haGPanvlzaCJwM2D-6LB68fmhc&expires=1647716700/storage.bunnycdn.com/html/content/conteudolb4/filmes2020/PETSUNIDOSDUB-BAIXO.mp4
+#EXTINF:-1,tvg-id="A Vida Secreta dos Bichos 2 " tvg-logo=" https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gs0iSjc9tbpbAElolwbDwPDpNXo.jpg",Pets - A Vida Secreta dos Bichos 2
+https://s1.netcine.io/bcdn_token=1vpEEJWpbtlMkYigHjQc_tfJdREMXInV15CaOQ0PGQg&expires=1647716761/storage.bunnycdn.com/html/content/conteudolb4/filmes2019/PETSAVIDASECRETADOSBICHOS2DUB-BAIXO.mp4
+
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Shrek (2001)
 https://luma.evosrv.com/EvoSrv/62IvzmKl74UWTzJLFdJA.mp4?md5=JY2o-e8eiUqP5DKFxdFf5A&expires=1647493034
-#EXTINF:-1,Shrek 2 (2004)
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Shrek 2 (2004)
 https://casia.evosrv.com/EvoSrv/P5RqWHJP4yWExf8JDRJJ.mp4?md5=tEMhWIZNlXDbScreTkMD_g&expires=1647493076
-#EXTINF:-1,Shrek Terceiro (2007)
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Shrek Terceiro (2007)
 https://vilea.evosrv.com/EvoSrv/VPNt27jYirQylc6lesQs.mp4?md5=OLWE1WKxsx09qeS_Bw4muQ&expires=1647493110
-#EXTINF:-1,Shrek Para Sempre (2010)
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Shrek Para Sempre (2010)
 https://casia.evosrv.com/EvoSrv/mMzPmhmf98rpmzwRIczI.mp4?md5=tKWjmq4TXc-kXHC1zOTXGQ&expires=1647493154
-#EXTINF:-1,Nem Que a Vaca Tussa (2004)
+
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Nem Que a Vaca Tussa (2004)
 https://vilea.evosrv.com/EvoSrv/zoo6UaFxDRbKSibS68R1.mp4?md5=hnKBdWNuHCePGcYh107MSg&expires=1647493345
-#EXTINF:-1,O TOURO FERDINANDO
+
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O TOURO FERDINANDO
 https://antica.evosrv.com/EvoSrv/O82JRNKoElny1hXXdu0Y.mp4?md5=2dZsCCnEb-wEMDC3PZx2xg&expires=1647493408
 
-#EXTINF:-1,Meu Malvado Favorito 2010
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Meu Malvado Favorito 2010
 https://casia.evosrv.com/EvoSrv/TiAjOqQKIX72IeRWIen4.mp4?md5=VJncN3749PcaQmrkfq5D3A&expires=1647494004
-#EXTINF:-1,Meu Malvado Favorito 2 2013
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Meu Malvado Favorito 2 2013
 https://xaia.evosrv.com/EvoSrv/dCILfFHJP3QpuUXNW9I6.mp4?md5=-62uFrK0WpAbynsMDI9lcg&expires=1647494101
-#EXTINF:-1,Meu Malvado Favorito 3
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Meu Malvado Favorito 3
 https://mv-1.astr.site/get.php?q=hd&f=QVVPZ1l4RVZZSjkwbktXaXF6U1RZejl4TEtNZkxIMGhxSklB&id=WndMPQ==&token=WjJINVpRUmpaR3BsQlRIM01RTjVMbXBtQlFXdVptSXlBbU5sWjJSa013SD0=
-#EXTINF:-1,Minions 2015
+
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Minions 2015
 https://luma.evosrv.com/EvoSrv/z9zqVw6n3ZzcocE0rPVp.mp4?md5=j3wLEN_MhK0QT4xIXjFAoA&expires=1647494279
 
 
-#EXTINF:-1,O Bicho Vai Pegar 2005
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Bicho Vai Pegar 2005
 https://luma.evosrv.com/EvoSrv/tHmhBYm8BU31bHmT1KFT.mp4?md5=mNN-wy2DS-9g6I5Gqvkyjw&expires=1647494920
-#EXTINF:-1,O Bicho Vai Pegar 2 2008
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Bicho Vai Pegar 2 2008
 https://snow.evosrv.com/EvoSrv/BVkIChm2uQCD1i0XVSNI.mp4?md5=ODWY_riPUy8594R0pdMoDQ&expires=1647494979
-#EXTINF:-1,O Bicho Vai Pegar 3 2010
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Bicho Vai Pegar 3 2010
 https://xaia.evosrv.com/EvoSrv/GnGFljznBSSxMr6Po7Br.mp4?md5=Qk1BC4Ewz4S6BKDVfGXvQQ&expires=1647495020
-#EXTINF:-1,O Bicho Vai Pegar 4 2016
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Bicho Vai Pegar 4 2016
 https://luma.evosrv.com/EvoSrv/tykiLfBiyMPEevo8Fow0.mp4?md5=LmfCrXwPwGs_8Vmaqip9DA&expires=1647495062
 
-#EXTINF:-1,Jurassic Park - Parque dos Dinossauros 1993
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Jurassic Park - Parque dos Dinossauros 1993
 https://antica.evosrv.com/EvoSrv/YhbsmohZDqfnv6ZpcpXG.mp4?md5=xKqdIj9npMEVJsNVCjXHLQ&expires=1647544572
-#EXTINF:-1,O Mundo Perdido - Jurassic Park 2 1997
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Mundo Perdido - Jurassic Park 2 1997
 https://casia.evosrv.com/EvoSrv/wmw7eDUZ5xhbiHkswM6k.mp4?md5=rf_SYIG6Q14IKUOg9wu6kw&expires=1647544667
-#EXTINF:-1,Jurassic Park 3 2001
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Jurassic Park 3 2001
 https://antica.evosrv.com/EvoSrv/nCliX6SlKWKLIEPkAoKS.mp4?md5=K1txWXVM4FgR8scXRtMFPg&expires=1647544723
-#EXTINF:-1,Jurassic World - O Mundo dos Dinossauros 2015
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Jurassic World - O Mundo dos Dinossauros 2015
 https://antica.evosrv.com/EvoSrv/NPvDxV0n48CU8miErm0j.mp4?md5=Y113ZWzfpFSuZPB6fRVyCg&expires=1647544848
-#EXTINF:-1,Jurassic World: Reino Ameaçado 2018
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Jurassic World: Reino Ameaçado 2018
 https://luma.evosrv.com/EvoSrv/GLskvVrdaGmGgrWGZh9e.mp4?md5=PVI0iPSDGRAKgQIknvtrng&expires=1647544913
 
-#EXTINF:-1,O Segredo dos Animais (2006)
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Segredo dos Animais (2006)
 https://casia.evosrv.com/EvoSrv/dsNNcGFqk0AX1e659WSC.mp4?md5=THsK7SzaWSJFLMCAXWpBLQ&expires=1647492412
-#EXTINF:-1,O Poderoso Chefinho
-https://xaia.evosrv.com/EvoSrv/y4Vx8HaaOsvDd9y0L3hm.mp4?md5=8xbqZQ0FOpkk7R5qOBhvdw&expires=1647494520
-#EXTINF:-1,O Poderoso Chefinho 2: Negócios da Família
-https://download2389.mediafire.com/mz6r8pni6upg/vy7nb73e1wm7yln/O.Poderoso.Chefinho.2.2021-HD.mp4
-#EXTINF:-1,O Mentiroso (1997)
-https://luma.evosrv.com/EvoSrv/q3djETVpH7doTRYDriSv.mp4?md5=drNUCVFwECUtrBBc6woK4g&expires=1647493480
 
-#EXTINF:-1,Viva: A Vida é uma Festa 2017
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Poderoso Chefinho
+https://xaia.evosrv.com/EvoSrv/y4Vx8HaaOsvDd9y0L3hm.mp4?md5=8xbqZQ0FOpkk7R5qOBhvdw&expires=1647494520
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Poderoso Chefinho 2: Negócios da Família
+https://download2389.mediafire.com/mz6r8pni6upg/vy7nb73e1wm7yln/O.Poderoso.Chefinho.2.2021-HD.mp4
+
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Viva: A Vida é uma Festa 2017
 https://antica.evosrv.com/EvoSrv/2mJix6DfFy2ewsBVmzzy.mp4?md5=miYyz_bSroiNsYUoLQJSiA&expires=1647545079
 
-#EXTINF:-1,Matrix Revolutions 2003
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Matrix Revolutions 2003
 https://luma.evosrv.com/EvoSrv/INBl37tZNdbQ4a4WOmmt.mp4?md5=ixV7joFg0VXtMwWquOER1w&expires=1647545230
-#EXTINF:-1,Matrix Resurrections 2021
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Matrix Resurrections 2021
 https://celia.evosrv.com/EvoSrv/iFLYID34n8QqSUyJc2O2.mp4?md5=v_14s1eOcAQyVX17zIIRBQ&expires=1647545288
 
-#EXTINF:-1,O Senhor dos Anéis: A Sociedade do Anel 2001
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Senhor dos Anéis: A Sociedade do Anel 2001
 https://casia.evosrv.com/EvoSrv/6UkBucJGge0b3XA0gLrt.mp4?md5=AxPXxy77gn5QV8G1GomQJg&expires=1647545354
-#EXTINF:-1,O Senhor dos Anéis: As Duas Torres
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Senhor dos Anéis: As Duas Torres
 https://download2391.mediafire.com/r4j7mtucieqg/ruou832iefdzjk0/O.Senhor.dos.Aneis.As.Duas.Torres-HD.mp4
-#EXTINF:-1,O Senhor dos Anéis: O Retorno do Rei
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",O Senhor dos Anéis: O Retorno do Rei
 https://download2388.mediafire.com/i6bjsah0afig/gwy05kgdob89mun/Senhor.dos.Aneis.Retorno.do.Rei-HD.mp4
 
-#EXTINF:-1,Riverdance: Uma Aventura Dançante
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Riverdance: Uma Aventura Dançante
 https://s9.pandafiles.com:183/d/6m3qlrw226kwoyapl2flg6g2otgsb6jr26njftr65q4qxexqeqizx5a3tcnfjvuivjzxhxtf/video.mp4
 
-#EXTINF:-1,Din e o Dragão Genial
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Din e o Dragão Genial
 https://s8.pandafiles.com:183/d/6a3zc2w626kwoyapukf6az6lhagnbulear5kcz6bdeuxg5a6laeoqf4xhdjg6k4ryhcmggfp/video.mp4
-#EXTINF:-1,Tina e Teo: A Pedra Encantada
+
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",Tina e Teo: A Pedra Encantada
 https://download2390.mediafire.com/c9440pdut7pg/zxzmza2b3rzcmrp/Tina.e.Teo.a.Pedra.Encantada-HD.mp4
-#EXTINF:-1,
-#EXTINF:-1,
+
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",
+#EXTINF:-1,tvg-id=" " tvg-logo=" ",
 
